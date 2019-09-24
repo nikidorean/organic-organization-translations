@@ -1,0 +1,62 @@
+# Roles Centrales
+
+Cada círculo tiene 4 roles centrales creados automáticamente: enlace externo, enlace interno, facilitador y secretario.
+
+El facilitador y el secretario son elegidos en la función de selección y operan principalmente dentro de las reuniones del círculo.
+
+El enlace externo y el enlace interno se utilizan para intercambiar mensajes y facilitar la comunicación entre el círculo y el círculo externo, especialmente durante las reuniones del círculo.
+
+## Enlace Externo
+
+El enlace externo es elegido por el círculo externo, por cualquier proceso que asigne a las personas roles en el círculo externo. 
+
+El Enlace Externo es responsable de asignar personas a los roles en el círculo y puede invitar a cualquier persona que forme parte de la organización, a menos que una restricción indique lo contrario.
+
+El enlace externo también puede establecer prioridades para el círculo, y se espera que los miembros del círculo se alineen con esas prioridades. 
+
+El rol de enlace externo se puede excluir o modificar completamente con un parche.
+
+El enlace externo contiene todos los dominios y responsabilidades no delegados del círculo. 
+
+## Descripción de los Roles Centrales
+
+### Facilitador
+
+Propósito: *
+Reuniones de círculo saludable alineadas con el Libro de Juegos*
+
+**Responsabilidades**:
+- Facilitar las reuniones de círculo
+
+### Secretario
+
+Propósito: *Mantenimiento preciso de los registros estructurales del círculo.*
+
+**Responsabilidades**:
+- Programar reuniones periódicas en círculo
+- Registro de resultados de reuniones de círculo
+
+**Dominios**:
+ - Registros estructurales del círculo
+
+### Enlace Externo
+
+Propósito: *El propósito del círculo*
+
+**Responsabilidades:** 
+- Estructurar el círculo para expresar su propósito.
+- Asignación de personas a los roles del círculo; monitorear el ajuste; ofreciendo comentarios para mejorar el ajuste; y reasignar roles a otras personas cuando sea útil para mejorar el ajuste.
+- Establecer prioridades para el círculo.
+
+**Dominios**:
+- Asignación de roles dentro del círculo.
+
+### Enlace Interno
+
+Propósito: *El propósito del círculo*
+
+**Responsabilidades:** 
+- Eliminar restricciones dentro de la organización externa que limitan el círculo.
+- Proporcionar visibilidad sobre la salud del círculo al círculo exterior.
+- Intentar comprender las tensiones provocadas por los miembros del círculo y procesar las apropiadas en el círculo exterior.
+
