@@ -1,0 +1,48 @@
+# Elementos Básicos
+
+## Roles
+
+Los miembros de la organización generalmente realizarán trabajo para la organización en uno o más roles definidos explícitamente.
+Un rol es una parte de la organización compuesta por:
+- Un nombre descriptivo (obligatorio);
+- Un propósito, que es el objetivo interminable del rol (obligatorio);
+- Responsabilidades, que son actividades recurrentes que otros pueden esperar que desempeñe el rol (opcional);
+- Dominios, que son cosas que el rol puede controlar y regular exclusivamente para la organización (opcional).
+Los roles solo se pueden cambiar en la función de adaptación de su reunión de círculo.
+
+## Círculos
+
+Los círculos son estructuras análogas a los roles y, por lo tanto, tienen las mismas propiedades descritas en la sección de roles.
+
+Los círculos pueden contener roles y círculos internos, que pueden contener sus propios roles y círculos internos, etc. La estructura es fractal. Desde la perspectiva de un círculo externo, sus círculos internos son como roles que tienen la capacidad adicional de descomponerse.
+
+Los círculos están compuestos de roles y círculos internos, no de personas. Eres miembro del círculo si desempeñas un papel en ese mismo círculo.
+
+Las propiedades del círculo interno (nombre, propósito, responsabilidades y dominios) solo se pueden cambiar en la función de adaptación de su reunión del círculo externo.
+
+Todos los miembros del círculo pueden acceder al dominio de un círculo, excepto si se ha delegado a un rol específico en ese círculo. 
+
+La organización en sí es el círculo más amplio de la estructura, que contiene todos los demás.
+
+Los círculos internos se crean con el propósito de mantener las reuniones del círculo con un número manejable de personas y un enfoque claro.  
+
+## Restricciones
+
+Las restricciones son limitaciones de autoridad que se aplican a todos los roles de un círculo dado.
+
+Las restricciones se componen de un título y una descripción (ambos obligatorios).
+
+Las restricciones se aplican en cascada a todos los círculos internos, a menos que se especifique lo contrario en la descripción.
+
+Las restricciones no pueden establecer expectativas, porque ese es el objetivo de una responsabilidad (propiedad de un rol o círculo). Sin embargo, una restricción puede exigir acciones, pero solo para las personas o roles a los que se aplica la restricción en la condición específica que la desencadena.
+
+Las restricciones solo se pueden adoptar dentro de las reuniones de círculo, más específicamente en la función de adaptación.
+
+## Parches
+
+Algunas secciones de este libro de juegos permiten explícitamente modificaciones. Cuando este es el caso, puede cambiar esa regla con un parche.
+
+El parche sigue la misma estructura de restricción (título y descripción) y solo se puede adoptar dentro de las reuniones de círculo, en la función de adaptación.
+
+Los parches se adoptan en cascada en todos los círculos internos, a menos que se especifique lo contrario en la descripción.
+
